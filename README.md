@@ -6,7 +6,8 @@
 
 ##  Oi, eu sou o william!
 
-Sou desenvolvedor full stack e cientista da computação, com foco no desenvolvimento de soluções escaláveis e eficientes.
+Sou desenvolvedor full stack e cientista da computação, Experiência em Python (FastAPI, Flask), Node.js, JavaScript/TypeScript,java , deep learning com PyTorch
+e infra em Google Cloud/Azure/aws. .
 
 <img align="right" alt="" height="190px" src="output_d803e65b-ad54-4df1-99d1-913a172eb0fd.gif">
 
