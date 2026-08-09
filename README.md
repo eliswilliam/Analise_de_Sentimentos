@@ -50,6 +50,12 @@ e infra em Google Cloud/Azure/aws. .
 
 <h3 align="left">My Badges ~</h3>
 
+<a href="https://www.credly.com/badges/5007b06e-7e9b-44ba-a1a8-c1eaeb20ec50/linked_in_profile">
+  <img
+    src="./IMG_3474.PNG"
+    alt="Microsoft AI Skills Fest 2026"
+    width="180"
+  />
 
 #
 
